@@ -1,0 +1,12 @@
+export const ADD_TO_CART ="addtocart";
+export const ADD_TO_CART_ERROR="addtocarterror";
+export const REMOVE_TO_CART="removetocart";
+export const ADD_QTY ="addqty";
+export const REMOVE_FROM_CART_ERROR ="removefromcarterror";
+export const CLEAR_ALL ="clearall";
+export const CLEAR_ALL_ERROR="clearallerror"
+export const TOTAL_QTY="totalqty";
+export const CART_ITEM ="cartitem";
+export const INCRESE ="increse";
+export const DECRESE ="decrese";
+export const PRICE_VALUE= "pricevalue"

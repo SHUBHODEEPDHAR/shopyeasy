@@ -1,0 +1,17 @@
+export const GET_PRODUCTS = "getproductssuccess";
+export const GET_PRODUCTS_FEATURED = "getproductsfeaturedsuccess";
+export const GET_PRODUCTS_ERROR="getproductserror";
+export const GET_FILTER_INPUT = "getfilterinput";
+export const GET_FILTER_PRODUCT = "getfilterProduct";
+export const GET_FILTER_PRODUCT_ERROR = "getfilterproducterror";
+export const GET_FILTER_PRODUCT_LOADING = "getfilterproductloading";
+export const GET_FILTER_PRODUCT_OPTION = "getfilterproductontion";
+export const GET_FILTER_PRODUCT_OPTION_ERROR = "getfilterproductotionerror";
+export const GET_FILTER_PRODUCT_LIST = "getfilterproductlist";
+export const GET_FILTER_PRODUCT_LIST_ERROR = "getfilterproductlisterror";
+export const GET_SINGLE_PRODUCT_SUCCESSFULL= "getsingleproductsuccessfull";
+export const GET_SINGLE_PRODUCT_ERROR = "getsingleproducterror";
+export const GET_ADD_TO_CART_LOADING ="getaddtocartloading";
+export const ADD_TO_CART ="getaddtocart";
+export const GET_ADD_TO_CART_ERROR="getaddtocarterror";
+export const GET_REMOVE_ADD_TO_CART= "removeaddtocart";
